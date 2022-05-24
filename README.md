@@ -1,3 +1,2 @@
 # tabs. 
-Used languages JavaScript, HTML, CSS.
-Tab temlate for my future projects
+Шаблон вкладок для будущих проектов. Динамически создает нужное количество табов и присваивает им имена. 
